@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PyLoris82
+- 👋 Hi, I’m Loris
 - 👀 I’m interested in developing fruitful social interactions
 - 🌱 I’m currently learning Python
+-  I just enrolled Udemy course : 100 days of Code. (03/03/2024)
 
 
 
